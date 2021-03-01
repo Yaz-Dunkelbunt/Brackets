@@ -1,4 +1,9 @@
 
+| :warning: On September 1, 2021, Adobe will end support for Brackets. Thats why i did this fork from the original site on [GitHub](https://github.com/adobe/brackets). 
+Will do another one end of august to keep it for future!
+| ---
+
+
 | :warning: On September 1, 2021, Adobe will end support for Brackets. If you would like to continue using, maintaining, and improving Brackets, you may fork the project on [GitHub](https://github.com/adobe/brackets). Through Adobe’s partnership with Microsoft, we encourage users to migrate to [Visual Studio Code](https://code.visualstudio.com/), Microsoft’s free code editor built on open source.
 | ---
 
